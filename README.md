@@ -1,2 +1,2 @@
 # Internship
--- MEAN --  -- stack development --
+ -- mean stack development --
