@@ -1,0 +1,35 @@
+#nav1{
+    background: lightskyblue;
+    color: white;
+}
+#ul1{
+    font-family: fantasy;
+    color: whitesmoke;
+}
+#div1{
+text-align: center;
+background-color: royalblue;
+}
+#div2{
+    background-color: slategray;
+}
+img{
+    height:80px;
+    width: 80px;
+}
+#nav2{
+    background-color:lightblue;
+    font-family: cursive;
+}
+#tw{
+    background-color: red;
+    color: whitesmoke;
+}
+#fa{
+    background-color: blue;
+    color: whitesmoke;
+}
+#go{
+    background-color: green;
+    color: whitesmoke;
+}
